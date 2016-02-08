@@ -1,0 +1,18 @@
+{
+  "name": "react-native-simple-rating",
+  "version": "1.0.0",
+  "description": "A simple star rating component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "rating"
+  ],
+  "author": "Robin Edman",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.times": "^4.0.1"
+  }
+}
